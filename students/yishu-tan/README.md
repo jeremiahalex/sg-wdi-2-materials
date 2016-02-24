@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# Your Name
+=======
 # Yi Shu
+>>>>>>> b0490abbf10bf42cf185518aee051cb8e751e00c
 added links to tictactoe and stopwatch
 
 ### Homework
