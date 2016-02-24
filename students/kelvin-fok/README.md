@@ -7,10 +7,12 @@ Welcome to my humble space where I host my web applications.
 * http://kelvinfok.github.io/timer/
 * http://kelvinfok.github.io/Calculator/
 
+
 ### Labs
-* NULL
+* http://kelvinfok.github.io/first-jQuery/
 
 ### Projects
 * https://github.com/kelvinfok/tictactoe
 * https://github.com/kelvinfok/timer
 * https://github.com/kelvinfok/Calculator/
+* https://github.com/kelvinfok/first-jQuery
