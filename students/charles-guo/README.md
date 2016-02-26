@@ -14,5 +14,5 @@ Hi! I am currently doing the WDI course at GA.
 ### Projects
 * [Project name](#link_to_your_project_repo)
 
-### Other links
+### Other Links
 * [Trello Board](https://trello.com/b/tVh2m0Qb/project-1)
