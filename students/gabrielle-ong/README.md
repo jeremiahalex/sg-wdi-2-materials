@@ -8,4 +8,4 @@
 * [Lab name](#link_to_your_lab_repo)
 
 ### Projects 
-* [Project name](#link_to_your_project_repo)
+* [Project 1](#link_to_your_project_repo)(#https://trello.com/b/4PqhFMOH/wdi-project-1 "Trello Board")
