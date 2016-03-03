@@ -11,12 +11,13 @@ Welcome to my humble space where I host my web applications.
 * http://kelvinfok.github.io/Calculator/
 * http://kelvinfok.github.io/profilepage/
 
-### Labs
-* http://kelvinfok.github.io/first-jQuery/
+### Assignments
+* http://kelvinfok.github.io/SingaporeTycoon/
 
-### Projects
+### Repos Projects
 * https://github.com/kelvinfok/tictactoe
 * https://github.com/kelvinfok/timer
 * https://github.com/kelvinfok/Calculator/
 * https://github.com/kelvinfok/first-jQuery
 * https://github.com/kelvinfok/profilepage
+* https://github.com/kelvinfok/SingaporeTycoon
