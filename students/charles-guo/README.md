@@ -14,5 +14,5 @@ Hi! I am currently doing the WDI course at GA.
 ### Projects
 1. [Project 1 - Memory Game](http://charlesguo.github.io/memory-game)
 
-### Other links
+### Other Links
 * [Trello Board](https://trello.com/b/tVh2m0Qb/project-1)
