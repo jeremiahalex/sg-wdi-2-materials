@@ -6,12 +6,19 @@ You can add a little description here if you want. What you're currently working
 * [Profile Page](http://giftofjehovah.github.io)
 
 ### Homework 
+<<<<<<< HEAD
+* [Home work name](http://giftofjehovah.github.io/tictactoe)
+
+### Labs 
+* [Lab name](http://giftofjehovah.github.io/timer)
+=======
 * [TicTacToe](http://giftofjehovah.github.io/tictactoe)
 * [TicTacToe Jquery](https://github.com/giftofjehovah/tictactoe/tree/jquery)
 * [Calculator](http://giftofjehovah.github.io/calculator)
 
 ### Labs 
 * [Timer](http://giftofjehovah.github.io/timer)
+>>>>>>> ccb5d60e4418e49c33f7073be6cc4b009ba908be
 
 ### Projects 
 * [Project 1 Trello](https://trello.com/b/C6sfoqrk/project-1)
