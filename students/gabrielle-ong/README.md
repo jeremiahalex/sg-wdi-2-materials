@@ -4,8 +4,5 @@
 * [Tic Tac Toe](#https://github.com/gabrielleong/tic-tac-toe.git)
 * [Javascript Timer](#https://github.com/gabrielleong/javascript-timer.git)
 
-### Labs 
-* [Lab name](#link_to_your_lab_repo)
-
 ### Projects 
-* [Project 1](#link_to_your_project_repo)(#https://trello.com/b/4PqhFMOH/wdi-project-1 "Trello Board")
+* [Project 1 - Mad Gab Word Game](#http://gabrielleong.github.io/mad-gab-word-game/)
