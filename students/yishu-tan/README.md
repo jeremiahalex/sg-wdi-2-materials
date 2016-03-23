@@ -3,6 +3,7 @@
 24/02/2016 added links to calculator
 26/02/2016 added links to trello for Project 1
 03/03/2016 added URL to project 1 (Number Game)
+24/04/2016 added URL to project 2 (Forum - tSauce)
 ### Homework
 * http://tanyishu.github.io
 * http://tanyishu.github.io/stopwatch
@@ -17,10 +18,5 @@
 * https://github.com/tanyishu/tictactoe
 * https://github.com/tanyishu/calculator
 * http://tanyishu.github.io/project1/ 
-``` Javascript
-var x = 1 + 1
-```
-
-```
-var x = 1 + 2
-```
+* https://github.com/tanyishu/tSauce
+* https://tranquil-dawn-94795.herokuapp.com/
